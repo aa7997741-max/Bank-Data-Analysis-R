@@ -37,7 +37,6 @@ The analysis includes summary statistics, handling missing values, and creating 
 ![Bar Chart](bar_chart.png)
 
 ### Scatter Plot
-> *(Insert Scatter Plot image here)*
 
 ![Scatter Plot](Scatter_plot.png)
 
