@@ -34,12 +34,12 @@ The analysis includes summary statistics, handling missing values, and creating 
 ### Bar Chart
 > *(Insert Bar Chart image here)*
 
-![Bar Chart](bar_chart.png)
+![Bar Chart](imges/bar_chart.png)
 
 ### Scatter Plot
 > *(Insert Scatter Plot image here)*
 
-![Scatter Plot](scatter_plot.png)
+![Scatter Plot](imges/scatter_plot.png)
 
 ---
 
