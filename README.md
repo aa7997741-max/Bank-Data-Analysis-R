@@ -32,7 +32,7 @@ The analysis includes summary statistics, handling missing values, and creating 
 ## Project Output
 
 ### Bar Chart
-> *(Insert Bar Chart image here)*
+> 
 
 ![Bar Chart](bar_chart.png)
 
