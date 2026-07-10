@@ -39,7 +39,7 @@ The analysis includes summary statistics, handling missing values, and creating 
 ### Scatter Plot
 > *(Insert Scatter Plot image here)*
 
-![Scatter Plot](scatter_plot.png)
+![Scatter Plot](Scatter_plot.png)
 
 ---
 
